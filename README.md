@@ -25,4 +25,4 @@ This project analyzes customer retention using cohort analysis on transactional 
 - Heatmap visualization makes retention trends easy to compare.
 
 ## Author
-<Ria Singh>
+Ria Singh
